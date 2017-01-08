@@ -1,6 +1,8 @@
 SECRET_KEY = "Set a long string that can't be guessed easily"
 
-FB_VERIFY_TOKEN = 'You Facebook Verify Token'
+FB_ACCESS_TOKEN = 'Your Facebook Page Access Token'
+
+FB_VERIFY_TOKEN = 'Your Facebook Verify Token'
 
 DEBUG = True
 # It enables/disables debug mode. If True, then debug mode is enabled
