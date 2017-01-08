@@ -1,0 +1,6 @@
+SECRET_KEY = "Set a long string that can't be guessed easily"
+
+DEBUG = True
+# It enables/disables debug mode. If True, then debug mode is enabled
+# while False means that debug mode is disabled. Make it False when
+# deploying to production server.
