@@ -43,7 +43,44 @@
 
 
 <!-- Load additional AIML set -->
+<learn>data/additional/20q.aiml</learn>
+<learn>data/additional/battledome.aiml</learn>
+<learn>data/additional/binary.aiml</learn>
+<learn>data/additional/blackjack.aiml</learn>
+<learn>data/additional/bornin.aiml</learn>
+<learn>data/additional/botcompare.aiml</learn>
+<learn>data/additional/calendar.aiml</learn>
+<learn>data/additional/chatbots32.aiml</learn>
 <learn>data/additional/computer.aiml</learn>
+<learn>data/additional/copyme.aiml</learn>
+<learn>data/additional/currency.aiml</learn>
+<learn>data/additional/daystoxmas.aiml</learn>
+<learn>data/additional/drphil.aiml</learn>
+<learn>data/additional/gender.aiml</learn>
+<learn>data/additional/hangman.aiml</learn>
+<learn>data/additional/happy.aiml</learn>
+<learn>data/additional/highroller.aiml</learn>
+<learn>data/additional/horoscope.aiml</learn>
+<learn>data/additional/howmany.aiml</learn>
+<learn>data/additional/jokes.aiml</learn>
+<learn>data/additional/knockknock.aiml</learn>
+<learn>data/additional/learn.aiml</learn>
+<learn>data/additional/luckyslots.aiml</learn>
+<learn>data/additional/maths.aiml</learn>
+<learn>data/additional/numberdrop.aiml</learn>
+<learn>data/additional/numberones.aiml</learn>
+<learn>data/additional/onthisday.aiml</learn>
+<learn>data/additional/poker.aiml</learn>
+<learn>data/additional/quizfacts.aiml</learn>
+<learn>data/additional/seasons.aiml</learn>
+<learn>data/additional/shutup.aiml</learn>
+<learn>data/additional/tictactoe.aiml</learn>
+<learn>data/additional/warnings.aiml</learn>
+<learn>data/additional/whatday_eng.aiml</learn>
+<learn>data/additional/whatday_usa.aiml</learn>
+<learn>data/additional/wordplay.aiml</learn>
+<learn>data/additional/yomama.aiml</learn>
+<learn>data/additional/zbert.aiml</learn>
 
 </template>
 </category>
