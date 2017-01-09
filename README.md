@@ -45,6 +45,6 @@ Now we have to provide some information in **config.py**. There is inner documen
 python run.py
 ```
 
-The project will run on http://127.0.0.1:5000/ bu default. Hit that address on browser and you will see mobot page. 
+The project will run on http://127.0.0.1:5000/ by default. Hit that address on browser and you will see mobot page. 
 
 But you have to deploy it on any server and connect to your facebook page to make it work. I will write more on it soon.
